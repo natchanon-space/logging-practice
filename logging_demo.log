@@ -1,0 +1,8 @@
+2021-11-03 13:53:16,882 root WARNING(30): This is a WARNING message 29
+2021-11-03 13:53:16,882 root Level 35(35): This is a LEVEL (custom log level) message 31
+2021-11-03 13:53:16,882 root ERROR(40): This is an ERROR message 32
+2021-11-03 13:53:16,882 root CRITICAL(50): This is a CRITICAL message 33
+2021-11-03 13:53:16,882 root WARNING(30): This is a WARNING message 29
+2021-11-03 13:53:16,882 root Level 35(35): This is a LEVEL (custom log level) message 31
+2021-11-03 13:53:16,882 root ERROR(40): This is an ERROR message 32
+2021-11-03 13:53:16,882 root CRITICAL(50): This is a CRITICAL message 33
